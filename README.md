@@ -1,4 +1,5 @@
 # Library Management System in C
+## Documentation
 
 This is a simple **Library Management System** built using C, designed to manage a collection of books in a library. The system allows users to perform various operations such as adding books, borrowing and returning books, searching for books, and saving the library data to a file for future use.
 
