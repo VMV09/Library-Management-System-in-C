@@ -1,2 +1,1 @@
-"# Library-Management-System-in-C" 
-Hi
+# Library-Management-System-in-C
